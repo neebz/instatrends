@@ -1,0 +1,86 @@
+.mainPanelcss{
+	background-color:white;
+}
+
+body {
+	font-family: "Georgia";
+}
+
+.titleBarcss {
+	background-color:#000033;
+	color:White;
+	padding:15px;
+	text-shadow: 3px 3px 3px black;
+	font-size:15pt;	
+	background-image: -webkit-linear-gradient(#000066, #000033);
+	text-align:left;
+}
+
+.subTitlecss { 
+	color:#000066;
+	background-image: -webkit-linear-gradient(silver, white);
+	background-color:silver;
+	text-shadow: 1px 1px 1px white;
+	padding:10px;
+	font-size:13pt;
+	margin-bottom:5px;
+}
+
+.boundary {
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-left:5px;
+	margin:8px;
+	border:1px solid #F0F0F0  ;
+	background-color: #F8F8F8 ;
+	-webkit-box-shadow: 0 0 4px silver;
+}
+
+.caption {
+	font-size:8pt;
+	text-shadow: 1px 1px 1px white;
+}
+
+
+.instaItem { 
+	color:black;
+	display:table-row;
+	width:100%;
+ }
+ 
+.instaItem .details  {
+	display:table-cell;
+	font-size:8pt;
+	vertical-align:top;
+	text-align:center;
+ }
+ 
+ .instaItem .details img {
+	width:100px; 
+	height:100px;
+	-webkit-box-shadow: 0 0 3px#888;
+ }
+ 
+ .instaItem .details button {
+	width:100px;
+ }
+ 
+ .instaItem .image {
+	font-size:10pt;
+	display:table-cell;
+	text-align:center;
+	width:100%;
+	
+ }
+ 
+ .instaItem .image img {
+	width:400px; 
+	height:400px;
+	-webkit-box-shadow: 0 0 10px#888;
+ }
+
+.streamPanelcss{
+	background-color:white;
+	color:black;
+}
+
