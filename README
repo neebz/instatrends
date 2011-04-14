@@ -1,1 +1,17 @@
-Hello World
+What the heck is it?
+Its an mobile web app. You can open it up on your iPad using Safari. It shows the popular feed from Instagram and also allows you to select some of your favorites.
+
+What I need ?
+1. NodeJs
+2. MongoDB
+3. Mongoose
+
+
+How to make it work?
+Run the server.js using node > node server.js
+By default it's hearing on 25303 though you can change it to whatever you want in server.js
+Then simply access the index.html file.
+
+What? That's it?
+Yea I only created it to get a hang of the technologies. Nothing fancy. Sorry to disappoint :)
+
